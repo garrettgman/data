@@ -1,0 +1,12 @@
+Package: dawr
+Maintainer: Garrett Grolemund <grolemund@rice.edu>
+License: GPL
+Title: Data sets used in the book Data Analysis with R.
+LazyData: true
+Type: Package
+Author: Garrett Grolemund <grolemund@rice.edu>
+Description: The dawr package contains the data sets used in the book Data
+    Wrangling with R by Garrett Grolemund
+Version: 0.1.0
+Collate:
+    'data.r'
